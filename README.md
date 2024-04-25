@@ -1,5 +1,8 @@
 # 1D simulation of dynamic MIT coupling
 
+[![DOI](https://zenodo.org/badge/791779637.svg)](https://zenodo.org/doi/10.5281/zenodo.11066591)
+
+
 Python code for 1-dimensional simulation of dynamic magnetosphere-ionosphere-thermosphere coupling. 
 
 To replicate the figures from Laundal et al. (2024), do this:
