@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: DynaMIT_1D
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Karl
+    family-names: Laundal
+    email: karl.laundal@uib.no
+    affiliation: >-
+      Department of Physics and Technology, University
+      in       Bergen, Norway
+    orcid: 'https://orcid.org/0000-0001-5028-4943'
+repository-code: 'https://github.com/DynaMIT-uib/DynaMIT_1D'
+abstract: >+
+  Python code for 1-dimensional simulation of dynamic
+  magnetosphere-ionosphere-thermosphere coupling.
+
+license: MIT
