@@ -3,10 +3,10 @@
 Python code for 1-dimensional simulation of dynamic magnetosphere-ionosphere-thermosphere coupling. 
 
 To replicate the figures from Laundal et al. (2024), do this:
-1. Run `dbdt.py`. This runs five different simulations and places datafiles in the `output` directory
+1. Run `dbdt.py`. This runs simulations with settings defined in `cases.py`, and places datafiles in the `output` directory
 2. Run `cartoon.py`. This reads the datafiles and produces figures in the `figures` directory
 
-`diffmatrix.py` contains code to produce sparse differentiation matrices based on finite differences. It is highly recommended to test it properly before using it for other applications. 
+The repository also contains `diffmatrix.py`, which has code to produce sparse differentiation matrices based on finite differences. It is highly recommended to test it properly before using it for other applications. 
 
 ### Installation and dependencies:
 
